@@ -2,6 +2,14 @@ img {
     width: 100px;
     height: 100px;
 }
+
+@font-face {
+  font-family: 'starborn';
+  src: url('./starborn.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 body {
     text-align: left;
     font-family: 'starborn';
