@@ -1,0 +1,10 @@
+img {
+    width: 100px;
+    height: 100px;
+}
+body {
+    text-align: left;
+    font-family: 'starborn';
+    background: azure;
+    color: seagreen;
+}
